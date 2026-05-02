@@ -6,3 +6,10 @@
     font-family: "Hind Siliguri", sans-serif;
 }
 
+
+/* active button style */
+
+.active{
+    background-color: #422AD5;
+    color: white;
+}
